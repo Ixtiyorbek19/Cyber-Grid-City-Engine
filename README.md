@@ -11,3 +11,5 @@ Protect this branch from force pushing or deletion, or require status checks bef
 
 Your main branch isn't protected
 Protect this branch from force pushing or deletion, or require status checks before merging. View
+
+Merge pull request
